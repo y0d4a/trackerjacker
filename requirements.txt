@@ -1,2 +1,2 @@
 scapy-python3==0.21
-PyYAML==3.12
+PyYAML==5.4
